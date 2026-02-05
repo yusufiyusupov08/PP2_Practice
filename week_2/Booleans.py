@@ -1,5 +1,6 @@
 '''Boolean Values'''
 
+#the result will be true or false
 print(10 > 9)
 print(10 == 9)
 print(10 < 9)
