@@ -1,0 +1,2 @@
+{"Apple Price is": 150, "Banana price is": 200, "Water is": 50, "Country is": "True"}
+Hello, Python!
